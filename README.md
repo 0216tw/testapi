@@ -11,7 +11,6 @@ DB의 경우 실제 적재하지 않고 프로젝트 내 json 파일에 처리�
 특정 인사 조회하기 GET     /api/emps/{empId} <br>
 모든 인사 조회하기 GET     /api/emps <br>
 특정 인사 삭제하기 DELETE  /api/emps/{empId} <br>
-특정 인사 수정하기 PATCH   /api/emps <br>
 특정 인사 등록하기 POST   /api/emps  <br>
 
 <br>
@@ -21,6 +20,5 @@ DB의 경우 실제 적재하지 않고 프로젝트 내 json 파일에 처리�
 특정 인사 조회하기 GET     /test/emps/{empId}  <br>
 모든 인사 조회하기 GET     /test/emps <br>
 특정 인사 삭제하기 DELETE  /test/emps/{empId} <br>
-특정 인사 수정하기 PATCH   /test/emps <br>
 특정 인사 등록하기 POST   /test/emps  <br>
 <br>
